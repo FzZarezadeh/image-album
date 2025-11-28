@@ -1,4 +1,4 @@
-![Image Album Viewer Icon](https://copilot.microsoft.com/th/id/BCO.0216652f-b9f5-4805-9689-e63611fa072f.png)
+![Image Album Viewer Icon](https://copilot.microsoft.com/th/id/BCO.779f5f48-46ea-4d48-b07e-d82a79c49f8f.png)
 
 🖼️ Image Album Viewer
 
