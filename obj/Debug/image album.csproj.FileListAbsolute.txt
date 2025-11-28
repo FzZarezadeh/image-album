@@ -1,0 +1,10 @@
+I:\دانشگاه\t1-barnameSazi\image album\bin\Debug\image album.exe.config
+I:\دانشگاه\t1-barnameSazi\image album\bin\Debug\image album.exe
+I:\دانشگاه\t1-barnameSazi\image album\bin\Debug\image album.pdb
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image album.csprojAssemblyReference.cache
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image_album.Form1.resources
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image_album.Properties.Resources.resources
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image album.csproj.GenerateResource.cache
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image album.csproj.CoreCompileInputs.cache
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image album.exe
+I:\دانشگاه\t1-barnameSazi\image album\obj\Debug\image album.pdb
